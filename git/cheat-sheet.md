@@ -58,3 +58,11 @@
 	git stash pop
 	git stash apply
 	```
+
+## Credentials
+
+- Force GitHub Login Prompt
+	```
+	git config --local credential.helper ""
+	```
+	(From https://stackoverflow.com/questions/13103083/how-do-i-push-to-github-under-a-different-username)
