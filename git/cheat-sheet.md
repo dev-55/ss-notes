@@ -57,6 +57,8 @@
 
 &nbsp; 
 ## Commit
+- WIP:
+	https://bitsnbytes.blog/2018/11/26/using-a-work-in-progress-commit/
 - Revert: 
 	https://stackoverflow.com/questions/8728093/how-do-i-un-revert-a-reverted-git-commit
 
