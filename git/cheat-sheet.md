@@ -7,8 +7,19 @@
 	git config user.email "mail@mail.com"
 	```
 
-## Remote
+## Repo
 
+- Clone to different folder name
+	```
+	git clone https://github.com/sferik/sign-in-with-twitter.git signin
+	```
+	
+- Clone to current folder (without creating additional folder)
+	```
+	git clone https://github.com/sferik/sign-in-with-twitter.git .
+	```
+	(From https://stackoverflow.com/questions/8570636/change-name-of-folder-when-cloning-from-github)
+	
 - URL of remote
 	```	
 	git remote -v
@@ -46,6 +57,8 @@
 
 &nbsp; 
 ## Commit
+- WIP:
+	https://bitsnbytes.blog/2018/11/26/using-a-work-in-progress-commit/
 - Revert: 
 	https://stackoverflow.com/questions/8728093/how-do-i-un-revert-a-reverted-git-commit
 
